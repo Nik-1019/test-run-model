@@ -1,3 +1,5 @@
 [2025-07-07 09:58:19] [LOG] ARMED detected at position: (507,207) to (1331,1066)
 [2025-07-07 09:58:19] [LOG] GUN detected at position: (1179,714) to (1308,1020)
 [2025-07-07 09:58:20] [LOG] KNIFE detected at position: (922,626) to (1102,872)
+[2025-07-07 10:15:50] [LOG] ARMED detected at position: (127,45) to (639,479)
+[2025-07-07 10:15:50] [LOG] GUN detected at position: (495,80) to (568,149)

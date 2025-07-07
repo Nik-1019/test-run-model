@@ -1,1 +1,2 @@
 [2025-07-07 09:58:19] [LOG] GUN detected at position: (1179,714) to (1308,1020)
+[2025-07-07 10:15:50] [LOG] GUN detected at position: (495,80) to (568,149)
