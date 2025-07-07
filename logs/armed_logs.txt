@@ -1,0 +1,1 @@
+[2025-07-07 09:58:19] [LOG] ARMED detected at position: (507,207) to (1331,1066)
